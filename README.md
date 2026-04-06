@@ -7,7 +7,7 @@
       |_| |_|_||_||_\_\___|_|   |_____|_|_|_\___\___|_|
                                          (id3fix)
 
-     "Turn away from doubt, follow your vision, and see it through" 
+     /* Turn away from doubt, follow your vision, and see it through */ 
 
 
   +------------------------------+
