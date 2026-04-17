@@ -29,8 +29,10 @@ Classic MOS 6581 sound from the Commodore 64 in your CLI.
 A Bash-driven interface to manage the Commodore 1541 II disk drive.
 Bridging the gap between modern scripts and classic 5.25" floppies.
 
- # RetroMp3 #
-Python-based experiments with vintage MP3 playback logic and minimalist terminal interfaces.
+ # Cbr/Cbz Viewer #
+Python-based lightweight viewer for comic book archives (.cbr, .cbz).
+Source code: https://git.sr.ht/~basheclipse/cbrcbz-reader
+Features: zoom, smooth page navigation, archive support, print individual pages or entire comics
 
  Rebus:
      /* r◐◓t = wheel = th•nk */ — logic by id3fix
