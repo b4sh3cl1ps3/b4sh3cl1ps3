@@ -36,7 +36,7 @@ Source code: https://git.sr.ht/~basheclipse/cbrcbz-reader
 Features: zoom, smooth page navigation, archive support, print individual pages or entire comics
 Purpose: comic archive viewer
 
- /* RetroMP3 player*/
+ /* RetroMP3 player */
 Lightweight terminal MP3 player for Linux and FreeBSD. (experimental)
 Source: wait...
 Features: TUI playback, evdev input, gamepads, hotplug, ncurses UI
