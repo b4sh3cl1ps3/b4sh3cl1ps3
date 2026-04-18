@@ -12,7 +12,7 @@
   +------------------------------+
   |        SYSTEM STATUS         |
   +------------------------------+
-    OS: FreeBSD | Linux | C64
+    OS: FreeBSD 13.5-RELEASE / 16-CURRENT | Gentoo Linux | C64
     Focus: Low-level programming, IRC culture, retro-computing
   +------------------------------+
   |        KEY PROJECTS          |
@@ -36,17 +36,22 @@ Source code: https://git.sr.ht/~basheclipse/cbrcbz-reader
 Features: zoom, smooth page navigation, archive support, print individual pages or entire comics
 Purpose: comic archive viewer
 
+ /* RetroMP3 player*/
+Lightweight terminal MP3 player for Linux and FreeBSD. (experimental)
+Source: wait...
+Features: TUI playback, evdev input, gamepads, hotplug, ncurses UI
+Purpose: minimal console music player with controller support
+
 Projects: alive systems, maintained when needed
 
- Rebus:
+Rebus:
      /* r◐◓t = wheel = th•nk */ — logic by id3fix
 
- Connect:
+Connect:
     IRC: id3fix @ IRCnet / EFnet - sometimes
-
     Mail: id3fix@basheclipse.org - usually
 
- Shoutouts:
+Shoutouts:
 IRCnet crew	| EFnet legends
 BSD sysadmins |	Oldskool ppl
 Linux kernel fans |	Retro demoscene
