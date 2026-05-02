@@ -1,65 +1,134 @@
-<div align="center">
+<div align="center" style="font-family: monospace;">
 
-```text
-    _  _   _         _             _ _ _ _            _ 
+<pre style="font-family: monospace; font-size: 14px; line-height: 1.1;">
+    _  _   _         _             _ _ _ _            _
    | || |_(_)_ _  | |_____ _ _  | | | | |__  ___ ___| |
    |__   _| | ' \ | / / -_) '_| | | | | '  \/ -_) -_) |
       |_| |_|_||_||_\_\___|_|   |_____|_|_|_\___\___|_|
-                                         (id3fix)
+                         (id3fix)
 
-     /* Turn away from doubt, follow your vision, and see it through */ 
+Turn away from doubt, follow your vision, and see it through
+</pre>
 
-  /*----------------------------*/
-  /*        SYSTEM STATUS       */
-  /*----------------------------*/
+</div>
 
-    OS: FreeBSD 14.4-RELEASE / OpenBSD 7.8 | Gentoo Linux
-    Focus: Low-level programming, IRC culture, retro-computing
+---
 
-  /*----------------------------*/
-  /*        KEY PROJECTS        */
-  /*----------------------------*/
-; SIDEXEC Player ;
-The crown jewel. High-performance, terminal-based C64 SID player for Linux.
-Tech: x86-64 assembly core with a minimal C wrapper, powered by sidplayfp and custom ASM playback routines.
-Features: Zero bloat. Plays SID files and raw audio data with smooth real-time terminal animations.
-Authentic MOS 6581 sound from the Commodore 64 delivered through a terminal interface.
-Purpose: High-performance SID playback system for the terminal.
+## SYSTEM PROFILE
 
- # C64-AutomizerMenu #
-A Bash-driven interface to manage the Commodore 1541 II disk drive.
-Bridging the gap between modern scripts and classic 5.25" floppies.
-Purpose: disk automation tool
+OS:
+- FreeBSD / OpenBSD / Gentoo Linux
 
- # Cbr/Cbz Viewer #
-Python-based lightweight viewer for comic book archives (.cbr, .cbz).
-Source code: https://git.sr.ht/~basheclipse/cbrcbz-reader
-Features: zoom, smooth page navigation, archive support, print individual pages or entire comics
-Purpose: comic archive viewer
+Style:
+- terminal-first
+- BSD-centric
+- retro computing
+- IRC culture
 
- /* RetroMP3 player */
-Lightweight terminal MP3 player for Linux and FreeBSD (C, experimental)
-Source: wait...
-Features: TUI playback, evdev input, gamepads, hotplug, ncurses UI
-Purpose: minimal console music player with controller support
+Focus:
+- low-level systems
+- minimal tooling
+- demoscene influence
+- C / Python / ASM
 
-/* Cu - BSD System Dashboard (CLI monitor) */
-Lightweight terminal system monitor for FreeBSD (C, experimental)
-Source: local system APIs (psutil, /proc, sysctl)
-Features: real-time CPU/RAM/load monitoring, process viewer, uptime tracking, ncurses-based TUI
-Purpose: minimal, fast and portable system overview tool for sysadmins
-and curious users who prefer terminal-first workflows and clean system introspection without GUI overhead
+---
 
-Projects: alive systems, maintained when needed, runs on Legion Go handheld (tested here, may vary)
+## CORE PROJECTS
 
-Rebus:
-     /* r◐◓t = wheel = th•nk */ — logic by id3fix
+### Cu — BSD System Dashboard
+Terminal system monitor (BSD / Linux)
 
-Connect:
-    IRC: id3fix @ IRCnet / EFnet - sometimes
-    Mail: id3fix@basheclipse.org - usually
+- CPU / RAM / load monitoring
+- process viewer (top-like)
+- uptime tracking
+- ncurses TUI
 
-Shoutouts:
-IRCnet crew	| EFnet legends
-BSD sysadmins |	Oldskool ppl
-Linux kernel fans |	Retro demoscene
+Purpose:
+system overview for terminal users
+
+---
+
+### SIDEXEC Player
+C64 SID player (Linux)
+
+- ASM playback core
+- C wrapper
+- SID emulation
+
+Purpose:
+Commodore 64 audio in terminal
+
+---
+
+### RetroMP3 Player
+Terminal MP3 player (BSD / Linux)
+
+- ncurses UI
+- evdev input
+- gamepad support
+- hotplug devices
+
+Purpose:
+minimal music player with controller support
+
+---
+
+### C64-AutomizerMenu
+Bash tool for Commodore 1541 II floppy drive
+
+Purpose:
+bridge modern scripts with floppy workflows
+
+---
+
+### Cbr/Cbz Viewer
+Comic archive viewer (.cbr / .cbz)
+
+- Python
+- archive support
+- navigation / zoom
+
+Repo:
+git.sr.ht/~basheclipse/cbrcbz-reader
+
+Purpose:
+lightweight comic reader
+
+---
+
+## SHOUTOUTS
+
+IRC / UNIX:
+- IRCnet crew
+- EFnet legends
+- BSD sysadmins
+- old UNIX users
+
+Systems:
+- Linux kernel devs
+
+Culture:
+- demoscene
+- retro computing
+
+---
+
+## NOTES
+
+- experimental codebase
+- BSD primary environment
+- Linux secondary support
+- handheld testing (e.g. Legion Go)
+
+---
+
+## REBUS
+
+r◐◓t = wheel = th◐nk (id3fix logic)
+
+---
+
+## CONNECT
+
+IRC:
+IRCnet / EFnet (occasional presence)
