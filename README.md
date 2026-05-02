@@ -47,7 +47,9 @@ Purpose: minimal console music player with controller support
 Lightweight terminal system monitor for FreeBSD (C, experimental)
 Source: local system APIs (psutil, /proc, sysctl)
 Features: real-time CPU/RAM/load monitoring, process viewer, uptime tracking, ncurses-based TUI
-Purpose: minimal, fast and portable system overview tool for sysadmins and curious users who prefer terminal-first workflows and clean system introspection without GUI overhead
+Purpose: minimal, fast and portable system overview tool for sysadmins
+and curious users who prefer terminal-first workflows and clean system introspection without GUI overhead
+
 Projects: alive systems, maintained when needed, runs on Legion Go handheld (tested here, may vary)
 
 Rebus:
