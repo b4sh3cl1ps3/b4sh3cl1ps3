@@ -18,6 +18,9 @@ C / Python / ASM
 
 ## PROJECTS
 
+**BandW-wm** — minimalist, deterministic tiling window manager.  
+extremely lightweight tiling window manager written in pure C99 using Xlib.
+
 **Cu** — Linux & NetBSD system dashboard  
 ncurses / CPU / RAM / load / top-like
 
