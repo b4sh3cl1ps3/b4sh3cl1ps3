@@ -42,7 +42,14 @@ Commodore 1541 II workflow
 **CBR/CBZ**  
 comic reader  
 Python / archive support  
-git.sr.ht/~basheclipse/cbrcbz-reader  
+source: git.sr.ht/~basheclipse/cbrcbz-reader  
+
+## DESIGN
+no bloat  
+keyboard-driven  
+deterministic  
+unix philosophy  
+push limits, keep it minimal  
 
 ## CULTURE
 IRCnet / EFnet  
