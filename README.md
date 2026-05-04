@@ -9,7 +9,7 @@
 
 Turn away from doubt, follow your vision, and see it through
 </pre>
- — C6
+
 ## SYSTEM
 OS: FreeBSD / NetBSD / OpenBSD / Gentoo  
 STYLE: terminal-first / BSD / retro / IRC  
